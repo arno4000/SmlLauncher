@@ -1,0 +1,37 @@
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\MainWindow.g.cs
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\App.g.cs
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher_MarkupCompile.cache
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher_MarkupCompile.lref
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.exe.config
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.exe
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.pdb
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\MainWindow.baml
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.g.resources
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.Properties.Resources.resources
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.csproj.GenerateResource.cache
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.exe
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.pdb
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.csprojAssemblyReference.cache
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.exe.manifest
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.application
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.exe.manifest
+C:\Users\degro\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.application
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.exe.config
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.exe.manifest
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.application
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.exe
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\bin\Debug\SmlLauncher.pdb
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.csprojAssemblyReference.cache
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\MainWindow.g.cs
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\App.g.cs
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher_MarkupCompile.cache
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher_MarkupCompile.lref
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\MainWindow.baml
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.g.resources
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.Properties.Resources.resources
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.csproj.GenerateResource.cache
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.exe.manifest
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.application
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.exe
+C:\Users\Arno Siegenthaler\Desktop\source\repos\SmlLauncher\SmlLauncher\obj\Debug\SmlLauncher.pdb
